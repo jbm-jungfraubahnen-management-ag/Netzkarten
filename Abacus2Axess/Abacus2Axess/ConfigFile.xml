@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <add key="ServerIP" value="mysql.jungfrauha123.nine.ch" />
+    <add key="PortNr" value="3306" />
+    <add key="UserID" value="db" />
+    <add key="Password" value="7ZoZSnPtGG6i" />
+    <add key="Database" value="db_abacus" />
+    <add key="XMLPath" value="\\dir-aba17\abacusv2017prod\Exp_SS\Axess\Netzkarten\JB_Export_Netzkarten_Axess.xml" />
+    <add key="IMGPath" value="\\dir-aba17\abacusv2017prod\ABAC\kd\nr1000\publ\ADRIMG" />
+    <add key="SQLTabelle" value="Test" />
+</Settings>
+

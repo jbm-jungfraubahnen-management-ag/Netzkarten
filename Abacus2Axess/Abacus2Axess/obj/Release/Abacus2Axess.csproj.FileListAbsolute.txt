@@ -1,0 +1,12 @@
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\bin\Release\Abacus2Axess.exe.config
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\bin\Release\Abacus2Axess.exe
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\bin\Release\Abacus2Axess.pdb
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\bin\Release\Google.Protobuf.dll
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\bin\Release\MySql.Data.dll
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\bin\Release\Google.Protobuf.xml
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\bin\Release\MySql.Data.xml
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\obj\Release\Abacus2Axess.csproj.CoreCompileInputs.cache
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\obj\Release\Abacus2Axess.csproj.CopyComplete
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\obj\Release\Abacus2Axess.exe
+C:\Users\bian\source\repos\Abacus2Axess\Abacus2Axess\obj\Release\Abacus2Axess.pdb
